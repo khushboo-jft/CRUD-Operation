@@ -1,0 +1,14 @@
+{
+  "name": "crud-version-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
